@@ -4,4 +4,49 @@ source_metadata:
   id: bdr:W3CN2914
   title: གསུང་འབུམ། པདྨ་དཀར་པོ།
   author: ''
-  volumes: {}
+  volumes:
+    8b6a7e76033042e3b8ac4947d0f96db0:
+      image_group_id: I3CN2916
+      title: ''
+      volume_number: 1
+      total_pages: 456
+    ba361b2c0bff4abba56bbc587fa39749:
+      image_group_id: I3CN2917
+      title: ''
+      volume_number: 2
+      total_pages: 304
+    740afba16d5740478fc18ee7ad434926:
+      image_group_id: I3CN2918
+      title: ''
+      volume_number: 3
+      total_pages: 435
+    46622ca695094f94af74a3aff4797243:
+      image_group_id: I3CN2919
+      title: ''
+      volume_number: 4
+      total_pages: 308
+    1f2cef4930b54142a10294bb608cfd6a:
+      image_group_id: I3CN2920
+      title: ''
+      volume_number: 5
+      total_pages: 220
+    87a5ceb55e48442fa1d0ed17b60eed84:
+      image_group_id: I3CN2921
+      title: ''
+      volume_number: 6
+      total_pages: 306
+    57d4ccac4f9045d68c19d45ea28c8cb3:
+      image_group_id: I3CN2922
+      title: ''
+      volume_number: 7
+      total_pages: 448
+    c9a76fdef19a4fa9b9c410ff24f47ca6:
+      image_group_id: I3CN2923
+      title: ''
+      volume_number: 8
+      total_pages: 282
+    190d917eaaf34299963e7bf2c28590b0:
+      image_group_id: I3CN2924
+      title: ''
+      volume_number: 9
+      total_pages: 338
